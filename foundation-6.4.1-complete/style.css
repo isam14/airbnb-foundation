@@ -1,0 +1,39 @@
+.top-bar{
+	background: white;
+	margin-bottom: 50px;
+}
+.menu a{
+	background: white;
+	color: black;
+	font-size: 13px;
+}
+.menu a:hover{
+	border-bottom: 2px black solid; 
+}
+.grid-container{
+	margin-left: 150px;
+	margin-right:150px; 
+}
+.slogan{
+	font-size:47px;
+	margin-bottom: 70px;
+	line-height:55px;
+    font-family: 'Raleway', sans-serif;
+
+}
+.titre{
+	color: #FC5D5D;
+	font-weight: bolder;
+}
+.callout{
+	margin-bottom:50px;
+}
+.callout input{
+	border:none;
+}
+.callout input:focus{
+	border:none;
+}
+.callout select{
+	border:none;
+}
